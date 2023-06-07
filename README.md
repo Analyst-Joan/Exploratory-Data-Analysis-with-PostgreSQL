@@ -11,4 +11,4 @@ The dataset contains information about the amount of debt (in US Dollars) owed b
 
 **Aggregate functions** such as `SUM`, `COUNT`, `MAX`, and `AVG` were also used.
 
-Let's analytically 🔭 **[Explore](https://raw.githubusercontent.com/Analyst-Joan/Exploratory-Data-Analysis-with-PostgreSQL/blob/main/Analyze_International_Debt_Statistics.ipynb)** together.:sunglasses::sunglasses::sunglasses:
+Let's analytically 🔭 **[Explore](https://github.com/Analyst-Joan/Exploratory-Data-Analysis-with-PostgreSQL/blob/main/Analyze_International_Debt_Statistics.ipynb)** together.:sunglasses::sunglasses::sunglasses:
